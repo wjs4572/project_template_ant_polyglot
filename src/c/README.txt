@@ -1,0 +1,1 @@
+This is a placeholder for Version Control folders and a reminder to document your code.
